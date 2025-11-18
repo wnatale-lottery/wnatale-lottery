@@ -2,8 +2,9 @@
 ```
 Will Natale
 Software Engineer IV
-Brightstar Lottery
+Brightstar
 Data Center of the Americas
-8200 Cameron Rd, Suite D-100
-Austin, TX 78754
+5301 Riata Park Court Bldg. E, Suite 120B 
+Austin, TX 78727
+Phone: +1 512 691 3643
 ```
